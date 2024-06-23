@@ -31,7 +31,7 @@ The project consists of three main Python files:
 1. Clone the repository
 2. Install the required packages:
    ```
-   pip install streamlit PyPDF2 langchain google-generativeai faiss-cpu python-dotenv
+   pip install -r requirements.txt
    ```
 3. Set up a `.env` file with your Google API key:
    ```
